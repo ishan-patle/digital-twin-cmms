@@ -1,0 +1,13 @@
+streamlit
+fastapi
+uvicorn
+python-dotenv
+langchain-nvidia-ai-endpoints
+langgraph
+langchain-core
+langchain-text-splitters
+langchain-community
+faiss-cpu
+ifcopenshell
+pydantic
+python-multipart
