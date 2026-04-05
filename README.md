@@ -2,8 +2,6 @@
 
 An AI-powered **Computerized Maintenance Management System** that combines a 3D BIM model viewer with a LangGraph ReAct agent for intelligent facility management.
 
-![Digital Twin Dashboard Mockup](dashboard_mockup.png)
-
 Built with **FastAPI**, **Streamlit**, **LangGraph**, **NVIDIA NIM**, and **IFC.js (ThatOpen Components)**.
 
 ---
